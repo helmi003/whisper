@@ -1,0 +1,13 @@
+{
+    "english": "English",
+    "french": "French",
+    "afterEnteringYourEmail":"After entering your email address an email will be sent to your inbox and there you can recover it back",
+    "youRememberedyouraccount":"You remembered your account?",
+    "signIn":"Sign In",
+    "theemailisnprovided":"The email isn't provided!",
+    "thisisanincorrectemail":"This is an incorrect email",
+    "success":"Success",
+    "emailhasbeensenttoyouremail":"An email has been sent to your email adress, please check your Inbox",
+    "thereisnousercorrespondingtothisemail":"There is no user corresponding to this email",
+    "recover":"Recover"
+}

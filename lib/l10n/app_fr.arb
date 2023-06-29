@@ -1,0 +1,14 @@
+{
+    "english": "Englais",
+    "french": "Francais",
+    "afterEnteringYourEmail":"Après avoir entré votre adresse e-mail, un e-mail sera envoyé à votre boîte de réception et vous pourrez le récupérer",
+    "youRememberedyouraccount":"Vous vous souvenez de votre compte ?",
+    "signIn":"S'identifier",
+    "theemailisnprovided":"L'e-mail n'est pas fourni !",
+    "thisisanincorrectemail":"Ceci est un e-mail incorrect",
+    "success":"Succès",
+    "emailhasbeensenttoyouremail":"Un e-mail a été envoyé à votre adresse e-mail, veuillez vérifier votre boîte de réception",
+    "thereisnousercorrespondingtothisemail":"Il n'y a pas d'utilisateur correspondant à cet email",
+    "recover":"Recover"
+
+}
